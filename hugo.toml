@@ -1,0 +1,11 @@
+baseURL = "https://dittalyona28.github.io/ditta_story/"
+languageCode = "en-us"
+title = "Ditta Story"
+theme = "tranquilpeak"
+
+[params]
+  sidebarBehavior = 1
+  [params.author]
+    name = "Bagas"
+    bio = "Bekerja keras, berkarya ikhlas."
+    picture = "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y"
